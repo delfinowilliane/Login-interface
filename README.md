@@ -1,6 +1,6 @@
 # Login-interface
 
-<img src="./127.0.0.1_5500_index.html(iPhone XR).png" width="200px" >
+<img src="./127.0.0.1_5500_index.html(iPhone XR).png" width="300px">
 
  > Project from DevClub HTML and CSS classes
 ##
